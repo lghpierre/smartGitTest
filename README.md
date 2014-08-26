@@ -1,0 +1,4 @@
+smartGitTest
+============
+
+Test
