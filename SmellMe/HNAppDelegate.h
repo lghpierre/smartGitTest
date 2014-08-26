@@ -23,9 +23,6 @@
 - (void)test003;
 - (void)test004;
 - (void)test005;
-<<<<<<< HEAD
-- (void)test007;
-=======
 - (void)test006;
->>>>>>> FETCH_HEAD
+- (void)test007;
 @end
