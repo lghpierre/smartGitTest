@@ -19,4 +19,5 @@
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;
 - (void)test001;
+- (void)test002;
 @end
