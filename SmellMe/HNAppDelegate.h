@@ -22,4 +22,5 @@
 - (void)test002;
 - (void)test003;
 - (void)test004;
+- (void)test005;
 @end
