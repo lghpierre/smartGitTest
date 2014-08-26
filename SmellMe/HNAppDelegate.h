@@ -18,4 +18,5 @@
 
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;
+- (void)thisisGitTest;
 @end
