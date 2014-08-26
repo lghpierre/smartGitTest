@@ -1,0 +1,103 @@
+{
+    "bstatus": {
+        "code": 0,
+        "desc": "执行成功"
+    },
+    "reqparams": {
+        "commonParams": {
+            "woid": 49301,
+            "cp": 0,
+            "re": 0,
+            "ke": "1389941336368",
+            "cid": "AWWWO0001",
+            "did": "863994016247611",
+            "pid": "10000",
+            "vid": "101016",
+            "model": "ZTE U930",
+            "osvers": "4.0.3",
+            "netstatus": "WIFI",
+            "lang": "cn",
+            "ip": "127.0.0.1",
+            "telecom": "2",
+            "screen": "540*960",
+            "clientver": "1.2.8",
+            "originalCparam": "{\"screen\":\"540*960\",\"osvers\":\"4.0.3\",\"model\":\"ZTE U930\",\"t\":\"\\/banner\\/getBannerPicList\",\"clientver\":\"1.2.8\",\"netstatus\":\"WIFI\",\"telecom\":2,\"gid\":\"\",\"woid\":49301,\"did\":\"863994016247611\",\"pid\":\"10000\",\"cid\":\"AWWWO0001\",\"vid\":\"101016\"}"
+        },
+        "uri": "/banner/getBannerPicList.json",
+        "id": 0,
+        "woId": 0,
+        "friendWoId": 0,
+        "thirdType": 0,
+        "type": 1,
+        "index": 0,
+        "num": 30,
+        "raceId": 0,
+        "familyId": 0,
+        "itemtype": "",
+        "itemtypes": []
+    },
+    "status": 0,
+    "serviceType": 10,
+    "runTime": 6,
+    "totalNum": 4,
+    "isMyFriend": 0,
+    "duration": 0,
+    "list": [
+             {
+             "id": 131,
+             "title": "11,11,11,11",
+             "path": "http://wenwenwopic.b0.upaiyun.com/pic/2014-01-14/1389689907405!",
+             "info": "",
+             "woid": 0,
+             "clickurl": "http://www.smellme.cn",
+             "createtime": 1389690003000,
+             "bannertype": 1,
+             "valib": 1,
+             "def1": "0",
+             "def2": "",
+             "bptype": "photo"
+             },
+             {
+             "id": 129,
+             "title": "哈哈,哈哈",
+             "path": "http://wenwenwopic.b0.upaiyun.com/pic/2014-01-08/1389154854328!",
+             "info": "",
+             "woid": 0,
+             "clickurl": "http://coolguy.cn/wap/event/detail.html?eventId=10035&navdata={'title':'闻闻窝宠物社区','hide':'false'}",
+             "createtime": 1389154919000,
+             "bannertype": 1,
+             "valib": 1,
+             "def1": "0",
+             "def2": "",
+             "bptype": "photo"
+             },
+             {
+             "id": 113,
+             "title": "11,11,哈哈",
+             "path": "http://wenwenwopic.b0.upaiyun.com/pic/2014-01-04/1388826744588!",
+             "info": "",
+             "woid": 0,
+             "clickurl": "49072",
+             "createtime": 1388812249000,
+             "bannertype": 4,
+             "valib": 1,
+             "def1": "1",
+             "def2": "",
+             "bptype": "photo"
+             },
+             {
+             "id": 125,
+             "title": "11,11,哈哈",
+             "path": "http://wenwenwopic.b0.upaiyun.com/pic/2014-01-01/1388508743140!",
+             "info": "",
+             "woid": 0,
+             "clickurl": "http://coolguy.cn/wap/event/detail.html?eventId=10033&navdata={'title':'闻闻窝宠物社区','hide':'false'}",
+             "createtime": 1388564851000,
+             "bannertype": 1,
+             "valib": 1,
+             "def1": "3",
+             "def2": "",
+             "bptype": "photo"
+             }
+             ]
+}
